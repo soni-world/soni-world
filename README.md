@@ -89,20 +89,6 @@ Production-grade Istio service mesh configurations with traffic management, secu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=soni-world&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soni-world&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soni-world&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 💼 Core Competencies
 
 ```
