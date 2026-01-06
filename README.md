@@ -22,7 +22,7 @@ I'm a Staff Software Engineer passionate about building scalable distributed sys
 
 ### 🔄 Distributed Systems & Orchestration
 
-**[Temporal Workflow Demo](https://github.com/soni-world/temporal-demo)**  
+**[Temporal Workflow Demo](https://github.com/soni-world/temporal_usecase)**  
 Comprehensive demonstration of Temporal workflow engine for building reliable distributed applications with durable execution.
 
 **[Event-Driven Microservices](https://github.com/soni-world/event-driven-services)**  
