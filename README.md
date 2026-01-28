@@ -31,7 +31,7 @@ Production-ready microservices architecture using Kafka for event streaming and 
 **[Kubernetes Operator](https://github.com/soni-world/k8s-custom-operator)**  
 Custom Kubernetes operator for automating complex application lifecycle management in cloud-native environments.
 
-### 🤖 LLM & AI Engineering
+### 🤖 LLM & AI Engineering [WIP]
 
 **[RAG Pipeline Framework](https://github.com/soni-world/rag-framework)**  
 Retrieval-Augmented Generation system with vector databases, semantic search, and context-aware response generation.
