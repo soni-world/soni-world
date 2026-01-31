@@ -14,7 +14,6 @@ I'm a Staff Software Engineer passionate about building scalable distributed sys
   - Large Language Model integration and optimization
   - Microservices, event-driven architectures, and workflow engines
 - 💡 **Passionate About**: System design, scalability, reliability engineering, and AI-powered solutions
-- ⚡ **Fun Fact**: I automate workflows, optimize distributed systems, and fine-tune LLMs - sometimes all in the same project!
 
 ---
 
@@ -76,10 +75,7 @@ Production-grade Istio service mesh configurations with traffic management, secu
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
