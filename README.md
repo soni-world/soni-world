@@ -92,16 +92,6 @@ Performance Tuning     ███████████████████
 AI/ML Engineering      ██████████████████░░░ 85%
 ```
 
----
-
-## 🌟 Key Achievements
-
-- 🏗️ **Architected** large-scale distributed systems serving millions of requests per day
-- 🤖 **Implemented** production LLM pipelines with RAG, reducing query response time by 60%
-- 🚀 **Led** migration to microservices architecture, improving deployment frequency by 10x
-- 📈 **Optimized** workflow orchestration with Temporal, achieving 99.9% reliability
-- 🔧 **Built** custom Kubernetes operators automating complex operational workflows
-- 💡 **Pioneered** AI-powered automation tools leveraging latest LLM techniques
 
 ---
 
