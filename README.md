@@ -35,11 +35,6 @@ Custom Kubernetes operator for automating complex application lifecycle manageme
 **[RAG Pipeline Framework](https://github.com/soni-world/rag-framework)**  
 Retrieval-Augmented Generation system with vector databases, semantic search, and context-aware response generation.
 
-**[LLM Fine-tuning Pipeline](https://github.com/soni-world/llm-finetuning)**  
-End-to-end pipeline for fine-tuning large language models with custom datasets, including evaluation metrics and deployment.
-
-**[Prompt Engineering Toolkit](https://github.com/soni-world/prompt-engineering-toolkit)**  
-Collection of advanced prompt engineering techniques, few-shot learning patterns, and chain-of-thought implementations.
 
 ### 🛠️ Infrastructure & Tools
 
@@ -61,11 +56,6 @@ Production-grade Istio service mesh configurations with traffic management, secu
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-
-### LLM & AI Technologies
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 
 ### Languages & Frameworks
