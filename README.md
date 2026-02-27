@@ -1,8 +1,8 @@
 # Hi there, I'm Soni 👋
 
-## 🎯 Staff Software Engineer | Distributed Systems & LLM Specialist
+## 🎯 Staff Software Engineer | Distributed System Specialist
 
-I'm a Staff Software Engineer passionate about building scalable distributed systems and leveraging cutting-edge LLM techniques to solve complex problems. I thrive at the intersection of infrastructure, AI, and software architecture.
+I'm a Staff Software Engineer passionate about building scalable distributed systems and leveraging cutting-edge techniques to solve complex problems. I thrive at the intersection of infrastructure, AI, and software architecture.
 
 ---
 
